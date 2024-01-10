@@ -25,10 +25,7 @@ Essentially, the company wants —
 
 
 ## Conclusions
-- Linear relation between variables 'temp','atemp' and 'cnt' 
-- As per analysis influencers are temperature,weather situation(weathersit_3),year
-- cnt =  0.1014 + (**yr** × 0.230846) + (**workingday** × 0.0470) + (**temp** × 0.4978) - (**windspeed** × 0.1519) + (**season2** × 0.0825) + (**season4** ×0.1551) + (**mnth9** × 0.094743) + (**weekday6** ×0.1130) - (**weathersit2** × 0.0855) - (**weathersit3** × 0.2907)
-- cnt is total number of bike shared or given free and the total numbers of bikes are as per above formulae
+- Linear relation between variables 'temp','atemp' and 'cnt'                                  
 - As per analysis major influencers are temperature,weather situation(weathersit_3),year
        where weathersit_3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
 
